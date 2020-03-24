@@ -34,5 +34,5 @@ Material used is 0.005" PET sourced from McMaster Carr. The design should accomo
 
 We have tested the materials with hospital sanitatizers (1 cup : 1 gallon bleach; CaviWipes). Both PET and Cellulose Acetate have held up to many rounds of sanitation without adverse effects. 
 
-The inspiration for this design came from the excellent design at: https://docs.google.com/document/d/1h6WlkQmBpClYxl8ALhX6QgyC4MXv_gm_8CsJsMSeZTI/edit reported on here: https://www.medgadget.com/2020/03/open-source-face-shield-to-help-block-covid-19.html
+The inspiration for this design came from: https://docs.google.com/document/d/1h6WlkQmBpClYxl8ALhX6QgyC4MXv_gm_8CsJsMSeZTI/edit 
 
