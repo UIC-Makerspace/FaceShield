@@ -15,7 +15,7 @@ To assemble (pictures soon):
 
 4: Hook the top splash shield into the band. The inside corners of the tabs work well but there are other options that can work depending on head shape. 
 
-5: Put the shield on and slide the wavy part of the band through the rectangle. 
+5: Put the shield on and slide the wavy part of the band through the rectangle to fasten the band. 
 
 ----
 Material used is 0.005" PET sourced from McMaster Carr. The design should accomodate other thicknesses of PET or even other materials. We also tested the design with 0.010" PET and 0.010" Cellulose Acetate. 
