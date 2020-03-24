@@ -1,7 +1,7 @@
 # FaceShield
 A laser cuttable face shield for healthcare workers facing shortages
 
-The design is two simple pieces and doesn't use any additional materials (we have found shortages of elastic and tapes to be a problem). The top portion prevents splash over and was requested by our environmental health and safety office. The band is adjustable in size with four positions. 
+The design is two simple pieces and doesn't use any additional materials (we have found shortages of elastic and tapes to be a problem). The top portion prevents splash over and was requested by our environmental health and safety office. The band is adjustable in size with four positions. It allows for wearing glasses, safetly goggles, and masks. They are incredibly quick to make - 20 seconds or so per mask (laser cutter depending)
 
 
 ----
