@@ -8,15 +8,23 @@ The design is two simple pieces and doesn't use any additional materials (we hav
 To assemble:
 
 1: Lay the shield flat on a clean surface.
-![Step 1](https://github.com/UIC-Makerspace/FaceShield/images/Step1.png)
+
+![Step 1](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step1.png)
+
 2: insert the tab on the band into the rectangle slot and pull taught.
-![Step 2](https://github.com/UIC-Makerspace/FaceShield/images/Step2.png)
+
+![Step 2](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step2.png)
+
 3: Pop the very bottom of the tab back towards you so the side flaps are on the opposite side of the shield from the band and the bottom flap is on the same side as the band. Think a Pringle or saddle shape.
-![Step 3](https://github.com/UIC-Makerspace/FaceShield/images/Step3.png)
-![Step 4](https://github.com/UIC-Makerspace/FaceShield/images/Step4.png)
+
+![Step 3](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step3.png)
+![Step 4](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step4.png)
+
 4: Hook the top splash shield into the band. The inside corners of the tabs work well but there are other options that can work depending on head shape. 
-![Step 5](https://github.com/UIC-Makerspace/FaceShield/images/Step5.png)
-![Step 6](https://github.com/UIC-Makerspace/FaceShield/images/Step6.png)
+
+![Step 5](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step5.png)
+![Step 6](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step6.png)
+
 5: Put the shield on and slide the wavy part of the band through the rectangle to fasten the band. 
 
 ----
