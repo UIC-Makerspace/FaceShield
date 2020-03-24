@@ -27,6 +27,8 @@ To assemble:
 
 5: Put the shield on and slide the wavy part of the band through the rectangle to fasten the band. 
 
+![Finished](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/FlatandFinished.png)
+
 ----
 Material used is 0.005" PET sourced from McMaster Carr. The design should accomodate other thicknesses of PET or even other materials. We also tested the design with 0.010" PET and 0.010" Cellulose Acetate. 
 
