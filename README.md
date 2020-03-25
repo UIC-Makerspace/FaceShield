@@ -30,7 +30,7 @@ To assemble:
 ![Finished](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/FlatandFinished.png)
 
 ----
-Material used is 0.005" PET sourced from McMaster Carr. The design should accommodate other thicknesses of PET or even other materials. We also tested the design with 0.010" PET and 0.010" Cellulose Acetate. 
+Material used is 0.005" PET. The design should accommodate other thicknesses of PET or even other materials. We also tested the design with 0.010" PET and 0.010" Cellulose Acetate. 
 
 We have tested the materials with hospital sanitizers (1 cup : 1 gallon bleach; CaviWipes). Both PET and Cellulose Acetate have held up through many rounds of sanitation without adverse effects. 
 
