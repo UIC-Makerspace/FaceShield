@@ -7,6 +7,11 @@ The design is two simple pieces and doesn't use any additional materials (we hav
 ----
 To assemble:
 
+Video instructions:
+
+[![Assembly Instructions ](http://img.youtube.com/vi/WwwImmXjGZU/0.jpg)](http://www.youtube.com/watch?v=WwwImmXjGZU "Assembly Instructions ")
+
+
 1: Lay the shield flat on a clean surface.
 
 ![Step 1](https://github.com/UIC-Makerspace/FaceShield/blob/master/images/Step1.png)
