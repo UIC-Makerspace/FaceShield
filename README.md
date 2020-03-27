@@ -10,7 +10,7 @@ To assemble:
 
 Video instructions:
 
-[![Assembly Instructions ](http://img.youtube.com/vi/WwwImmXjGZU/0.jpg)](http://www.youtube.com/watch?v=WwwImmXjGZU "Assembly Instructions ")
+[![Assembly Instructions ](http://img.youtube.com/vi/A-IHaJ__zD8/0.jpg)](https://www.youtube.com/watch?v=A-IHaJ__zD8 "Assembly Instructions ")
 
 ![Pieces](https://github.com/UIC-Makerspace/FaceShield/blob/master/AssemblyImages/Pieces.jpg)
 
